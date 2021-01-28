@@ -35,7 +35,7 @@ GirlScript Summer of Code is the 3 month long Open Source program during summers
 
 # Mentors
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/awantika10/Desgen/) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/weebo-ary)
 | GitHub Usernames                                      | Domain                     |
 | ----------------------------------------------------- | -------------------------- |
 | [@weebo-ary](https://github.com/weebo-ary)            | Design + Documentation     |
